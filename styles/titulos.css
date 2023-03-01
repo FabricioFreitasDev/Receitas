@@ -1,0 +1,31 @@
+
+.menu {
+    font-size: 25px;
+    color: var(--preto);
+    font-weight: 600;
+}
+
+.titulo-cabecalho {
+    font-family: var(--font-principal);
+    font-size: 30px;
+    color: var(--marrom)!important;
+    font-weight: 600;
+}
+
+.titulo1 {
+    font-family: var(--font-principal);
+    text-align: center;
+    color: var(--marrom);
+    font-size: 40px;
+    padding-top: 40px;
+    
+}
+.titulo2 {
+    font-family: var(--font-principal);
+    text-align: center;
+    color: var(--preto);
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    
+}

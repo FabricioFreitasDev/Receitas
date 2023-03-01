@@ -1,0 +1,31 @@
+
+.card-largura {
+    max-width: 18rem;
+}
+
+
+/*.receitas {
+    display: flex;
+    text-align: center;
+	transition: 400ms;
+    box-sizing: border-box;
+	border: 2px solid var(--preto);
+	border-radius: 10px;
+    
+}*/
+
+.botao-cor-especial {
+    background-color: var(--marrom);
+    color: var(--branco);
+}
+
+.borda-cor-especial {
+    border-color: var(--marrom);
+    
+}
+
+.card-posicao-img {
+    object-fit: cover;
+    height: 200px;
+    
+}

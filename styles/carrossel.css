@@ -1,0 +1,16 @@
+.imagem-carrossel-1 {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-2 {
+    object-fit: cover;
+    height: 400px;
+}
+
+h1 {
+    color: var(--branco);
+    font-family: var(--font-principal);
+    font-weight: 600;
+}
